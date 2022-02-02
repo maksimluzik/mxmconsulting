@@ -1,2 +1,2 @@
 # mxmconsulting
-Redirect repository for mxm-consulting.fi domain and https://github.com/maksimluzik/mxm-consulting
+Redirect repository for mxmconsulting.fi domain to point to mxm-consulting.fi ( https://github.com/maksimluzik/mxm-consulting )
